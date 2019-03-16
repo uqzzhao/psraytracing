@@ -1,1 +1,2 @@
 *.jl linguist-language=Julia
+*.ipynb linguist-language=Julia
